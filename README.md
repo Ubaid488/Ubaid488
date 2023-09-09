@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ubaid</h1>
 <h3 align="left">A Passionate Software Engineer from Lahore, Pakistan</h3>
 
-💻 Software Engineer at [Turing](https://turing.com/). — November 2022 to Present<br/>
+💻 Tech Lead at [Turing](https://turing.com/). — November 2022 to Present<br/>
 💻 Former Software Engineer at [Insurify](https://insurify.com/). — December 2020 to February 2023<br/>
 💻 Former Software Engineer at [Arbisoft](https://arbisoft.com/). — July 2020 to February 2023<br/>
 🎓 BS(CS) from FAST-NUCES, Lahore — August 2016 to July 2020<br/>
