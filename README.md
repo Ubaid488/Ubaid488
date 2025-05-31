@@ -1,15 +1,15 @@
 <h1 align="left">Hi 👋, I'm Ubaid</h1>
-<h3 align="left">A Passionate Software Engineer from Lahore, Pakistan</h3>
+<h3 align="left">A Passionate Software Engineer from Canada</h3>
 
-🎓 Master of Applied Computer Science (MACS) from Dalhousie University — September 2023 to December 2024<br/>
+💻 Software Engineer at [Acuicy](https://acuicy.com/). — August 2024 to March 2025<br/>
 💻 Software Engineer Co-op at [Detect Inspections](https://turing.com/). — September 2024 to December 2024<br/>
 💻 Software Engineer at [Turing](https://turing.com/). — November 2022 to August 2024<br/>
-💻 Software Engineer at [Insurify](https://insurify.com/). — December 2020 to February 2023<br/>
 💻 Software Engineer at [Arbisoft](https://arbisoft.com/). — July 2020 to February 2023<br/>
+💻 Software Engineer at [Techlogix](https://www.techlogix.com/). — May 2019 to June 2020<br/>
+
+🎓 Master of Applied Computer Science (MACS) from Dalhousie University — September 2023 to December 2024<br/>
 🎓 BS(CS) from FAST-NUCES, Lahore — August 2016 to July 2020<br/>
 🏅 Summa Cum Laude — Graduated with honor from FAST-NUCES — July 2020<br/>
-💻 Software Engineer at [Techlogix](https://www.techlogix.com/). — May 2019 to June 2020<br/>
-😎 - Level 2 on Fiverr — November 2020<br/>
 
 📫 How to reach me **ubaid.m.naeem@gmail.com**
 
