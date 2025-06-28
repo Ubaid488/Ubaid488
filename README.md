@@ -1,11 +1,10 @@
 <h1 align="left">Hi 👋, I'm Ubaid</h1>
 <h3 align="left">A Passionate Software Engineer from Canada</h3>
 
+💻 Senior Software Engineer at [Acuicy](https://acuicy.com/). — June 2025 to Present<br/>
 💻 Software Engineer at [Acuicy](https://acuicy.com/). — August 2024 to March 2025<br/>
-💻 Software Engineer Co-op at [Detect Inspections](https://turing.com/). — September 2024 to December 2024<br/>
 💻 Software Engineer at [Turing](https://turing.com/). — November 2022 to August 2024<br/>
 💻 Software Engineer at [Arbisoft](https://arbisoft.com/). — July 2020 to February 2023<br/>
-💻 Software Engineer at [Techlogix](https://www.techlogix.com/). — May 2019 to June 2020<br/>
 
 🎓 Master of Applied Computer Science (MACS) from Dalhousie University — September 2023 to December 2024<br/>
 🎓 BS(CS) from FAST-NUCES, Lahore — August 2016 to July 2020<br/>
