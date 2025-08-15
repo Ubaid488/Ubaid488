@@ -2,7 +2,7 @@
 <h3 align="left">A Passionate Software Engineer from Canada</h3>
 
 💻 Senior Software Engineer at [Acuicy](https://acuicy.com/). — June 2025 to Present<br/>
-💻 Software Engineer at [Acuicy](https://acuicy.com/). — August 2024 to March 2025<br/>
+💻 Full Stack Developer at [Acuicy](https://acuicy.com/). — August 2024 to March 2025<br/>
 💻 Software Engineer at [Turing](https://turing.com/). — November 2022 to August 2024<br/>
 💻 Software Engineer at [Arbisoft](https://arbisoft.com/). — July 2020 to February 2023<br/>
 
